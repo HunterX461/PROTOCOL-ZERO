@@ -69,7 +69,7 @@ Prepare to go deeper into the MEV (Maximal Extractable Value) rabbit hole, sandw
 
 <p align="left">
   <a href="https://www.tabrez.tech"><img src="https://img.shields.io/badge/Website-tabrez.tech-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/mohd-tabrez-mukadam-662273296"><img src="https://img.shields.io/badge/LinkedIn-Tabrez%20Mukadam-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohd-tabrez-mukadam-662273296"><img src="https://img.shields.io/badge/LinkedIn-Tabrez%20Mukadam-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://hunterx461.medium.com"><img src="https://img.shields.io/badge/Medium-@HunterX461-000000?style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
