@@ -63,6 +63,11 @@ Prepare to go deeper into the MEV (Maximal Extractable Value) rabbit hole, sandw
 
 ---
 
+### 🛠️ The Arsenal
+The hunt is bigger than one researcher. Welcome to **[The Arsenal](./arsenal/README.md)**—our open-source directory of community-built reconnaissance tools, PoC exploits, and threat intelligence. **[Click here to enter or contribute.]**
+
+---
+
 ## 🤝 Let's Connect
 **Tabrez Mukadam**  
 *Web3 Security Researcher & Smart Contract Auditor*  
