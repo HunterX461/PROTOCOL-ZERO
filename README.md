@@ -12,7 +12,8 @@
 # ⚡ PROTOCOL ZERO: The Web3 Security Masterclass
 ### *Bridging the gap between Web2 Penetration Testing and Web3 Smart Contract Auditing.*
 
-![Protocol Zero Banner](image_url_here)
+![AqN6XrlG](https://github.com/user-attachments/assets/13526b2c-9c92-4c1a-8f4f-021b4a7ff63a)
+
 
 ## 🎯 The Mission
 **PROTOCOL ZERO** is an overarching Web3 security franchise curated by **Tabrez Mukadam**. In an era where "Code is Law," the law is being broken at an unprecedented scale. This repository serves as the master directory for a deep-dive journey into the vulnerabilities, logic flaws, and architectural exploits that define the decentralized frontier.
@@ -27,11 +28,9 @@
 
 | Chapter | Title | Focus |
 | :--- | :--- | :--- |
-| **01** | **Moving from Web2 to Web3 Security** | What breaks your brain first when shifting to decentralization. |
-| **02** | **The Ultimate Public Crime Scene** | Why Web3 hackers don't need server logs to trace an exploit. |
-| **03** | **Writing Code in Concrete** | Why the immutability of Solidity breaks Web2 developer workflows. |
-
-![Phase 1 Diagram Placeholder](image_url_here)
+| **01** | [**Moving from Web2 to Web3 Security**](https://medium.com/coinsbench/moving-from-web2-to-web3-security-what-breaks-your-brain-first-8264e4d404df) | What breaks your brain first when shifting to decentralization. |
+| **02** | [**The Ultimate Public Crime Scene**](https://medium.com/coinsbench/the-ultimate-public-crime-scene-why-web3-hackers-dont-need-server-logs-4d4589ff8f85) | Why Web3 hackers don't need server logs to trace an exploit. |
+| **03** | [**Writing Code in Concrete**](https://medium.com/block-magnates/writing-code-in-concrete-why-solidity-breaks-web2-developers-81162a7de3a7) | Why the immutability of Solidity breaks Web2 developer workflows. |
 
 ---
 
@@ -40,12 +39,10 @@
 
 | Chapter | Title | Focus |
 | :--- | :--- | :--- |
-| **04** | **The Unforgiving Computer** | Resource exhaustion: Why Web3 hackers run out of Gas. |
-| **05** | **The "Inspect Element" of Web3** | Debunking the myth: Why private variables are a lie on-chain. |
-| **06** | **The Web3 IDOR** | Improper Access Control: Leaving the bank vault wide open. |
-| **07** | **The Identity Crisis** | The fatal difference between `tx.origin` and `msg.sender`. |
-
-![Phase 2 Diagram Placeholder](image_url_here)
+| **04** | [**The Unforgiving Computer**](https://medium.com/coinsbench/the-unforgiving-computer-why-web3-hackers-run-out-of-gas-c720b80b14c0) | Resource exhaustion: Why Web3 hackers run out of Gas. |
+| **05** | [**The "Inspect Element" of Web3**](https://medium.com/coinsbench/the-inspect-element-of-web3-why-private-variables-are-a-lie-️-️-c68e8e5ccd2f) | Debunking the myth: Why private variables are a lie on-chain. |
+| **06** | [**The Web3 IDOR**](https://medium.com/block-magnates/the-web3-idor-leaving-the-bank-vault-wide-open-f13bbcdf7be6) | Improper Access Control: Leaving the bank vault wide open. |
+| **07** | [**The Identity Crisis**](https://medium.com/coinsbench/the-identity-crisis-tx-origin-vs-msg-sender-df30b1f14b47) | The fatal difference between `tx.origin` and `msg.sender`. |
 
 ---
 
@@ -54,11 +51,9 @@
 
 | Chapter | Title | Focus |
 | :--- | :--- | :--- |
-| **08** | **Reentrancy** | The $10 Billion time-loop that broke reality. |
-| **09** | **Rigging the Odds** | Breaking the illusion of on-chain randomness. |
-| **10** | **The God Mode of Web3** | **Season Finale:** How to borrow $100 Million for zero seconds. |
-
-![Phase 3 Diagram Placeholder](image_url_here)
+| **08** | [**Reentrancy**](https://medium.com/block-magnates/reentrancy-the-10-billion-time-loop-that-broke-reality-0322057b6366) | The $10 Billion time-loop that broke reality. |
+| **09** | [**Rigging the Odds**](https://medium.com/block-magnates/rigging-the-odds-the-illusion-of-on-chain-randomness-552f2d29177a) | Breaking the illusion of on-chain randomness. |
+| **10** | [**The God Mode of Web3**](https://medium.com/@hunterx461/the-god-mode-of-web3-how-to-borrow-100-million-for-zero-seconds-d1490bc60345) | **Season Finale:** How to borrow $100 Million for zero seconds. |
 
 ---
 
@@ -73,9 +68,9 @@ Prepare to go deeper into the MEV (Maximal Extractable Value) rabbit hole, sandw
 *Web3 Security Researcher & Smart Contract Auditor*  
 
 <p align="left">
-  <a href="https://tabrez.tech"><img src="https://img.shields.io/badge/Website-tabrez.tech-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="your_linkedin_url_here"><img src="https://img.shields.io/badge/LinkedIn-Tabrez%20Mukadam-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="your_medium_url_here"><img src="https://img.shields.io/badge/Medium-@HunterX461-000000?style=flat-square&logo=medium&logoColor=white" /></a>
+  <a href="https://www.tabrez.tech"><img src="https://img.shields.io/badge/Website-tabrez.tech-blue?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/mohd-tabrez-mukadam-662273296"><img src="https://img.shields.io/badge/LinkedIn-Tabrez%20Mukadam-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://hunterx461.medium.com"><img src="https://img.shields.io/badge/Medium-@HunterX461-000000?style=flat-square&logo=medium&logoColor=white" /></a>
 </p>
 
 ---
